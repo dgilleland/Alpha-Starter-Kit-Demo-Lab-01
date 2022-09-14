@@ -31,4 +31,4 @@ $$
 a = \frac{1}{2} \cdot h \cdot b
 $$
 
-where $a$ is the area, $b$ is the base length and $h$ is the height. Prompt the user for the height and base (*in that order*) and then display the value of the area.
+where $a$ is the area, $b$ is the base length and $h$ is the height. Prompt the user for the height and base (*in that order*) and then display the value of the area. Assume that the user input will be integer values; the calculated area should be a real value.
