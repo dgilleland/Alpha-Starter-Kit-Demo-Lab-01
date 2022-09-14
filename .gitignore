@@ -1,6 +1,7 @@
 # Starter Kit
 src/*
 !src/ReadMe.md
+*/.vscode/**
 
 # Zip files - Because we're using version control.
 ## "Damn it Jim, I'm a repository, not a FTP site!"
