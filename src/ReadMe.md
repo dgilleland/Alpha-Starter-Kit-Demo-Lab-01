@@ -11,5 +11,6 @@ WriteLine("Stewart Dent");
 
 ## One-Time How-To
 
-To create the project in VS Code, open the terminal in this folder and type `dotnet new console`. You should have the following files/folders in the folder.
+To create the project in VS Code, open the terminal in this folder and type `dotnet new console`. You should have the following items in this folder.
 
+![](../images/dotnet-new-console.png)
