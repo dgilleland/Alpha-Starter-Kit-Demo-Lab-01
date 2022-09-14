@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "ms-dotnettools.csharp",
+        "vsls-contrib.codetour",
+        "vsls-contrib.gitdoc"
+    ]
+}

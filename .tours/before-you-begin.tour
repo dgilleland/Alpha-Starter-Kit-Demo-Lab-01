@@ -1,0 +1,17 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Before You Begin",
+  "steps": [
+    {
+      "file": "README.md",
+      "description": "Enter your name in the README.md file and save your changes.",
+      "line": 3
+    },
+    {
+      "file": "README.md",
+      "description": "Enable GitDoc for this lab.",
+      "line": 5
+    }
+  ],
+  "isPrimary": true
+}
